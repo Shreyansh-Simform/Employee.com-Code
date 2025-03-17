@@ -8,6 +8,11 @@ This is an Employee Database application to store required details for particula
 - Frontend in react
 - Backend in Flask
 
+**Version Information**
+
+--All the pre-requisites and their versions required are mentioned in README.md(S) of trainee_frontend and trainee_backend according to project requirements.
+
+
 ## **Setup Instructions**
 
 1. Clone the repository
@@ -23,21 +28,8 @@ git clone https://github.com/Shreyansh-Simform/Employee.com-Code.git
 
 3. Configure database in Mysql
 
--Create user and database
--Establish connectivity.
-
-4. Start the servers.
-
--More information is available in README.md's of backend and frontend.
+-Create user and database following the steps mentioned in trainee_backend/README.md
 
 
----
-
-Steps to Test Application
-
--Ensure database is configured properly with correct credentials.
-
--Ensure both the servers are running properly.
-
----
+##More information is available in README.md's of backend and frontend.
 
